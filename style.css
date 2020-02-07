@@ -35,7 +35,7 @@ body {
     left: 0;
     width: 100%;
     color: white;
-    font-size: 100px;
+    font-size: calc(30px + 10vw);
     text-align: center;
     text-shadow: 1px 1px 10px black;
 }
