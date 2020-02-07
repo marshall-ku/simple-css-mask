@@ -11,10 +11,15 @@ h1 {
     margin: 0;
 }
 
+::-webkit-scrollbar {
+    display: none
+}
+
 body {
     width: 100%;
     height: 150vh;
     font-family: 'HSBombaram';
+    background: #fff;
 }
 
 .maskWrap {
