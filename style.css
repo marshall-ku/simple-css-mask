@@ -27,6 +27,7 @@ body {
     height: 100vh;
     background: url(iu.jpg);
     background-size: cover;
+    background-position: center;
 }
 
 .title {
@@ -45,6 +46,8 @@ body {
     -webkit-mask: url(mask.png);
     mask-size: cover;
     -webkit-mask-size: cover;
+    mask-position: center;
+    -webkit-mask-position: center;
     width: 100%;
     height: 100%;
 }
